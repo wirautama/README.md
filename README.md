@@ -2,7 +2,7 @@ Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 ##!! Welcome to my Github Profile !!##
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/c4p59oQhRFE1W/giphy.gif" >
+<img align="center" alt="GIF" src="https://giphy.com/gifs/destiny-freedom-gundam-8EiORNat119Ha" >
 My name is Aditya Wira Utama student in... </br>where I study doesn't matter</br>
 i come from indonesia 🇮🇩
 </br>
