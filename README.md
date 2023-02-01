@@ -2,11 +2,11 @@ Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 ##!! Welcome to my Github Profile !!##
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" >
-my name is Aditya Wira Utama student in... </br>where I study doesn't matter</br>
-my home in indonesia 🇮🇩
+<img align="center" alt="GIF" src="https://media.giphy.com/media/cB3TCo6L8oG88/giphy.gif" >
+My name is Aditya Wira Utama student in... </br>where I study doesn't matter</br>
+i come from indonesia 🇮🇩
 </br>
-still learning:</br>
+tech enthusiast and still learning</br>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/python.svg"></code>
