@@ -2,8 +2,8 @@ Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 ##!! Welcome to my Github Profile !!##
 
-<img align="center" alt="GIF" src="https://giphy.com/gifs/destiny-freedom-gundam-8EiORNat119Ha" >
-My name is Aditya Wira Utama student in... </br>where I study doesn't matter</br>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/tEcIyVc6ukQV2eb86t/giphy.gif" >
+My name is Aditya Wira Utama</br>
 i come from indonesia 🇮🇩
 </br>
 tech enthusiast and still learning</br>
