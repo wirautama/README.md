@@ -2,7 +2,7 @@ Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 ##!! Welcome to my Github Profile !!##
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/efCdWBE19bR26ScE02/giphy.gif" >
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hr8zgx6TpI6WiW0Qfc/giphy.gif" >
 My name is Aditya Wira Utama</br>
 i come from indonesia 🇮🇩
 </br>
